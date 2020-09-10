@@ -1,1 +1,1 @@
-![Random Quote](https://q.puelpan.com/random)
+![Random Quote](https://q.puelpan.com/random?test=1)

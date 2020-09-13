@@ -1,6 +1,6 @@
 Here is a random quote that I've seen and liked:
 
-![Random Quote. Let's see if it changes](https://q.puelpan.com/random?s=13)
+![Random Quote. Let's see if it changes](https://q.puelpan.com/random?s=14)
 
 - Full list of quotes: https://puelpan.com/quotes/
 - For another random quote: https://q.puelpan.com/random
